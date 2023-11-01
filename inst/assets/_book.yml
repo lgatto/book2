@@ -2,6 +2,7 @@ book:
   title: "book2"
   chapters:
     - index.qmd
+    - pages/first-chapter.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
