@@ -3,6 +3,7 @@ book:
   chapters:
     - index.qmd
     - pages/first-chapter.qmd
+    - pages/second-chapter.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
